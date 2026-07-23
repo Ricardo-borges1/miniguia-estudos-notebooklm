@@ -50,8 +50,14 @@ https://academy.dair.ai/courses/introduction-prompt-engineering
 https://www.tce.sp.gov.br/sites/default/files/2024-11/APOSTILA%20Engenharia%20de%20Prompts%20-%20TCESP.pdf
 
 ---
-> Além dessas referências, foram utilizadas outras fontes durante os estudos e consultas realizadas no NotebookLM.
+> Além das referências listadas acima, foram consultadas diversas documentações, artigos técnicos, guias especializados e materiais complementares, totalizando **19 fontes** adicionadas ao NotebookLM para apoiar o processo de estudo e a geração das respostas.
 ---
+
+# 🖼️ Ambiente de Estudo no NotebookLM
+Após selecionar e analisar as fontes, todas elas foram adicionadas ao Google NotebookLM para criar um ambiente centralizado de estudos. Ao todo, foram utilizadas **19 fontes**, entre artigos, guias, documentações oficiais e materiais técnicos sobre Engenharia de Prompts.
+
+A imagem abaixo mostra parte das fontes carregadas no NotebookLM.
+![Fontes utilizadas](imagens/Capturar.PNG)
 
 # 🤖 Utilização do NotebookLM
 
@@ -270,6 +276,16 @@ O NotebookLM mostrou-se uma ferramenta eficiente para reunir diferentes fontes d
 Além de atender aos requisitos do desafio proposto pela DIO, este projeto contribuiu para o desenvolvimento de habilidades relacionadas à pesquisa, análise crítica de informações e uso estratégico da Inteligência Artificial como ferramenta de apoio aos estudos.
 
 ---
+
+# 📊 Estatísticas do Projeto
+
+| Item | Quantidade |
+|------|-----------:|
+| Fontes analisadas | 19 |
+| Ferramenta utilizada | Google NotebookLM |
+| Tema estudado | Engenharia de Prompts |
+| Plataforma | DIO |
+| Linguagem de documentação | Markdown |
 
 # 👨‍💻 Autor
 **Ricardo Borges**
